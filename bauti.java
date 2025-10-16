@@ -7,7 +7,7 @@ public class bauti {
         int a = sc.nextInt();
         System.out.print("Ingrese el segundo número: ");
         int b = sc.nextInt();
-        System.out.println("La suma es: " + (a + b));
+        System.out.println("La resta es: " + (a - b));
         sc.close();
     }
 }
