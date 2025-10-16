@@ -1,11 +1,3 @@
-Conformar un grupo de 2 o 3 personas y realizar lo siguiente:
-
-Crear un repositorio en GitHub en modo Público
-
-Clonarlo localmente y trabajar sobre la rama master quien haya creado el repositorio, debe crear 2 archivos iniciales, 1 con contenido y otro vacío y hacer el push.
-
-Todos los participantes deberán clonarse ese repositorio a sus PCs y crear una nueva rama
-
 Deberán realizar modificaciones en los archivos, agregarles contenido o agregar nuevos archivos. (un mínimo de 5 cambios commiteados por participante)
 
 Hacer el git push de todas las nuevas ramas al repositorio de GitHub
